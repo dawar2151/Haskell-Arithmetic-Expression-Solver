@@ -1,6 +1,6 @@
 # Projet : une simple environnement interactif
 	
-# ET-TAOUSY Zouhair, Fatima zahra JABRANE;
+# ET-TAOUSY Zouhair
 
 Ce mini-projet a pour objectif de faire apprendre à créer une application Haskell structuré facile à maintenir et a évolué, ceci est dû à l'implementation des opérations arithmétiques élémentaires dans la première partie et des opérations plus difficiles dans la deuxième partie. 
 
